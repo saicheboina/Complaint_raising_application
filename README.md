@@ -143,11 +143,3 @@ This project is licensed under the **MIT License**.
 - [Expo](https://expo.dev/)
 - Icons from [Icons8](https://icons8.com)
 
----
-
-## 👨‍💻 Author
-
-**Sai Cheboina**  
-Senior Software Engineer | DevOps + Fullstack  
-🔗 [LinkedIn](https://linkedin.com/in/saicheboina)  
-📧 saicheboina@email.com
