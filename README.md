@@ -119,15 +119,6 @@ FIREBASE_API_KEY=your_firebase_key
 
 Then use a `.env` loader (like `babel-plugin-dotenv` or `expo-constants`) for secure access.
 
----
-
-## 📸 Screenshots (Optional)
-
-| Home | Add Complaint | Notification |
-|------|----------------|--------------|
-| ![](screens/home.png) | ![](screens/add.png) | ![](screens/notifications.png) |
-
----
 
 ## ✨ Contributions
 
