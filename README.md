@@ -127,13 +127,6 @@ PRs are welcome! Please:
 - Create a new branch (`feature/xyz`)
 - Open a pull request with a clear description
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
 
 ## 🙌 Acknowledgements
 
