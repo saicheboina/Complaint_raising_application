@@ -120,14 +120,6 @@ FIREBASE_API_KEY=your_firebase_key
 Then use a `.env` loader (like `babel-plugin-dotenv` or `expo-constants`) for secure access.
 
 
-## ✨ Contributions
-
-PRs are welcome! Please:
-- Fork the repo
-- Create a new branch (`feature/xyz`)
-- Open a pull request with a clear description
-
-
 ## 🙌 Acknowledgements
 
 - [Firebase](https://firebase.google.com/)
