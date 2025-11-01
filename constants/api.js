@@ -1,4 +1,4 @@
-import { deleteDoc, doc, setDoc, updateDoc } 123 from "firebase/firestore";
+import { deleteDoc, doc, setDoc, updateDoc } 1234 from "firebase/firestore";
 import { db } from "../firebase";
 
 export const saveProfileUrl = async (id, url) => {
